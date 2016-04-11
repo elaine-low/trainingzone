@@ -1,0 +1,12 @@
+@charset "utf-8";
+/*Top NavBar Rules*/
+.img-responsive{
+	margin-top: -3px;
+	margin-bottom: 0px;
+	height: 30px;
+	width: 200px;
+	}
+#topFixedNavbar1 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	}	
